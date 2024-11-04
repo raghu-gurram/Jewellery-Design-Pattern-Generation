@@ -1,0 +1,116 @@
+.contactus-1{
+  font-family: "Arial", sans-serif;
+  background-color: black;
+  color: #333;
+  margin: 0;
+  display: flex;
+  justify-content: space-evenly; /* Space between containers */
+  align-items: center;
+  height: 100vh;
+  padding: 20px;
+}
+
+.contact-container-1 {
+  background-color: black;
+  padding: 30px;
+  border: 2px solid white; /* White border */
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  width: 100%; /* Full width */
+  max-width: 500px; /* Same max width for both */
+  margin: 10px; /* Space between containers */
+}
+
+.info-container-1 {
+  background-color: black;
+  color: white;
+  padding: 115px 60px; /* Top-bottom, left-right padding */
+  border: 2px solid white; /* White border */
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  width: 100%; /* Full width */
+  max-width: 500px; /* Same max width for both */
+  margin: 10px; /* Space between containers */
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: white; /* White text color */
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  font-size: 14px;
+  color: white; /* White text color */
+  margin-bottom: 8px;
+}
+
+.line-input,
+textarea {
+  border: none; /* No border */
+  border-bottom: 2px solid white; /* White bottom border */
+  width: 100%;
+  font-size: 14px;
+  color: white; /* White text color */
+  outline: none;
+  background: transparent; /* Transparent background */
+  margin: 0; /* Remove margin */
+  padding: 5px 0; /* Small padding for height */
+}
+
+.line-input:focus,
+textarea:focus {
+  border-color: #6c63ff; /* Color on focus */
+}
+
+.form-button {
+  background-color: #6c63ff;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 20px;
+  width: 70%;
+  max-width: 300px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  display: block; /* Make it a block element */
+  margin: 0 auto;
+}
+
+button:hover {
+  background-color: #554dbd;
+}
+
+.info-container-1 h1 {
+  text-align: center;
+  color: white; /* White text color */
+  margin-bottom: 20px; /* Space below heading */
+}
+
+.info-container-1 p {
+  margin: 0; /* Remove margin */
+  text-align: center; /* Center align the paragraph */
+  color: white; /* White text color */
+}
+
+.info-container-1 span {
+  display: block;
+  font-size: 20px; /* Larger font size for contact info */
+  color: white; /* White text color */
+  text-align: center;
+  margin-bottom: 10px; /* Space between lines */
+}
+
+@media (max-width: 500px) {
+  .contact-container-1,
+  .info-container-1 {
+    padding: 20px;
+  }
+}
