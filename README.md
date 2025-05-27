@@ -1,5 +1,5 @@
 
-```markdown
+``
 # Jewelry Design Visualization Platform
 
 ## Overview
