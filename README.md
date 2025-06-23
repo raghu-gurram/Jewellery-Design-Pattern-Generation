@@ -50,32 +50,6 @@ The Jewelry Design Visualization Platform is a web application that allows users
 2. Create an account or log in if you already have an account.
 3. Use the various features to visualize your jewelry designs.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m 'Add some feature'
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/YourFeature
-   ```
-5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-For any inquiries, please reach out to your-email@example.com.
 ```
 
 This text is ready to go into your `README.md`. Just be sure to replace `yourusername` with your GitHub username and `your-email@example.com` with your preferred contact email. Let me know if you need help with any additional customization!
