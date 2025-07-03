@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Jewelry Design Visualization Platform is a web application that allows users to transform their ideas into vivid visuals. Users can generate images from descriptive text, upload sketches to create realistic images, and colorize monochrome images. This platform is designed to help jewelry designers visualize their creations with precision and creativity.
+The Jewelry Design Visualization Platform is a web application that allows users to transform their ideas into vivid visuals. Users can generate images from descriptive text, upload sketches to create realistic images, and colorize monochroome images. This platform is designed to help jewelry designers visualize their creations with precision and creativity.
 
 ## Features
 
