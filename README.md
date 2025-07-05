@@ -50,6 +50,4 @@ The Jewelry Design Visualization Platform is a web application that allows users
 2. Create an account or log in if you already have an account.
 3. Use the various features to visualize your jewelry designs.
 
-```
 
-This text is ready to go into your `README.md`. Just be sure to replace `yourusername` with your GitHub username and `your-email@example.com` with your preferred contact email. Let me know if you need help with any additional customization!
