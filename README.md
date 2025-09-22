@@ -1,5 +1,3 @@
-
-``
 # Jewelry Design Visualization Platform
 
 ## Overview
